@@ -46,14 +46,10 @@ Log-Analyzer/
 ├── .gitignore         # ignored files (logs, CSVs, cache)
 └── sample.log         # example log file (optional)
 
-💡 Skills Demonstrated
+## 💡 Skills Demonstrated
+- ✅ **Python scripting fundamentals** – clean, structured, reusable code  
+- ✅ **File I/O and error handling** – safe log reading and parsing  
+- ✅ **String processing and conditionals** – analyzing and filtering data  
+- ✅ **CSV export and reporting** – creating structured outputs  
+- ✅ **Command-line interaction** – user prompts and automation
 
-Python scripting fundamentals
-
-File I/O and error handling
-
-String processing and conditionals
-
-CSV export and reporting
-
-Command-line user interaction
