@@ -1,0 +1,4 @@
+Line Number,Level,Message
+2,WARNING,2025-09-20 12:02:10 WARNING Disk space is low
+3,ERROR,2025-09-20 12:03:55 ERROR Unable to connect to database
+5,ERROR,2025-09-20 12:06:20 ERROR Timeout occurred in API request
